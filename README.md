@@ -14,3 +14,5 @@ How to Play:
 Enjoy the Game!
 
 This guess-the-number game is designed to challenge and entertain you. Good luck with your attempts, and feel free to modify the code to personalize the experience!
+
+Deployed Link:- https://the-hint-hunt.netlify.app/
